@@ -5,9 +5,9 @@ brew tap caskroom/versions
 
 # Install packages
 apps=(
+    atom
     dropbox
     google-chrome
-    intellij-idea
     iterm2
     macdown
     slack
