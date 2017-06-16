@@ -19,8 +19,13 @@ cd dotfiles
 source install.sh
 ```
 
+### Update all few days
+```
+source update.sh
+```
+
 ### GWS info
-Define the following alias inside your ~/.bashrc file:
+Define the following alias inside your ~/.bashrc or ~/.zshrc file:
 ```
 alias gws="PATH=/usr/local/opt/coreutils/libexec/gnubin:usr/local/opt/gnu-sed/libexec/gnubin:$PATH gws"
 ```

@@ -1,18 +1,14 @@
 # Install Caskroom
 brew tap caskroom/cask
-brew install brew-cask
-brew tap caskroom/versions
 
 # Install packages
 apps=(
     atom
     dropbox
-    google-chrome
     iterm2
     macdown
     slack
-    sourcetree
-    sublime-text3
+    sublime-text
     vagrant
     vagrant-manager
     virtualbox
