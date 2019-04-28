@@ -12,7 +12,6 @@ apps=(
     node
     python
     shellcheck
-    ssh-copy-id
     tree
     vim
     wget
