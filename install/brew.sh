@@ -7,7 +7,7 @@ brew upgrade
 apps=(
     coreutils
     git
-    gnu-sed --with-default-names
+    gnu-sed
     gws
     node
     python
