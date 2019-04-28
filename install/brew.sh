@@ -13,6 +13,7 @@ apps=(
     python
     shellcheck
     tree
+    tldr
     vim
     wget
 )
