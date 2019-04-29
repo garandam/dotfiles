@@ -16,6 +16,8 @@ apps=(
     tldr
     vim
     wget
+    kubectl
+    go
 )
 
 brew install "${apps[@]}"

@@ -9,6 +9,8 @@ apps=(
     vagrant-manager
     virtualbox
     visual-studio-code
+    docker
+    minikube
 )
 
 brew cask install "${apps[@]}"
