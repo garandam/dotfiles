@@ -8,3 +8,6 @@ brew upgrade
 
 # Cleanup
 brew cleanup
+
+# Update oh-my-zsh
+upgrade_oh_my_zsh
