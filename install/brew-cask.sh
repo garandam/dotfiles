@@ -13,7 +13,7 @@ apps=(
     docker
     minikube
     mattermost
-    pgadmin3
+    pgadmin4
 )
 
 brew cask install "${apps[@]}"
