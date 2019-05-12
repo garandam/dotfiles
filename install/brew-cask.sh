@@ -1,5 +1,6 @@
 # Install Caskroom
 brew tap caskroom/cask
+brew tap homebrew/cask-versions
 
 # Install packages
 apps=(
@@ -12,6 +13,7 @@ apps=(
     docker
     minikube
     mattermost
+    pgadmin3
 )
 
 brew cask install "${apps[@]}"
