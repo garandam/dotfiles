@@ -11,6 +11,7 @@ apps=(
     visual-studio-code
     docker
     minikube
+    mattermost
 )
 
 brew cask install "${apps[@]}"
