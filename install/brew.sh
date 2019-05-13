@@ -18,6 +18,8 @@ apps=(
     wget
     kubectl
     go
+    terraform
+    git-crypt
 )
 
 brew install "${apps[@]}"
