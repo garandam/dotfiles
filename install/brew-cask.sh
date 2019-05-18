@@ -14,6 +14,7 @@ apps=(
     minikube
     mattermost
     pgadmin4
+    dropbox
 )
 
 brew cask install "${apps[@]}"
