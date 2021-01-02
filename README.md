@@ -2,7 +2,7 @@
 
 These are my dotfiles. Take anything you want, but at your own risk.
 
-It targets OS X systems.
+It targets OS X systems with `macOS Big Sur 11.1+`
 
 ## Package overview
 
